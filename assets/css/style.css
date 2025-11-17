@@ -1,0 +1,65 @@
+/* Fade-in animation for page load */
+body {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Section fade + slide */
+section {
+  animation: slideUp 1s ease-out;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Smooth links */
+a {
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #007acc;
+  transform: translateY(-2px);
+}
+
+/* Animated underline for nav links */
+nav a {
+  position: relative;
+  padding-bottom: 3px;
+}
+
+nav a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  left: 0;
+  bottom: 0;
+  background-color: #007acc;
+  transition: width 0.3s;
+}
+
+nav a:hover::after {
+  width: 100%;
+}
+
+/* Modern headings spacing */
+h1, h2, h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+/* Paragraph readability */
+p {
+  line-height: 1.7;
+  font-size: 1.05rem;
+  max-width: 700px;
+}
