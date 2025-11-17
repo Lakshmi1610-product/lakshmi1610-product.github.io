@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
-title: Sai Sri Lakshmi
-description: Product Case Studies • Breakdowns • UX Thinking
+theme: minima
+title: "Sai Sri Lakshmi - Portfolio"
+author: "Sai Sri Lakshmi"
+markdown: kramdown
