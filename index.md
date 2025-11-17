@@ -20,7 +20,7 @@
 </header>
 
 <section class="hero">
-    <h1>Hi, I’m Sai Sri 👋</h1>
+    <h1>Hi, I’m Sai Sri Lakshmi 👋</h1>
     <p>Product enthusiast & consultant exploring product thinking, case studies, breakdowns and strategy.</p>
 </section>
 
