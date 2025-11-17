@@ -1,39 +1,23 @@
 ---
 layout: default
-title: Sai Sri – Portfolio
+title: Sai Sri Lakshmi
 ---
 
-# Hi, I’m Sai Sri 👋
+## Hi, I’m Sai Sri Lakshmi 👋
 
 Product enthusiast & consultant exploring product thinking, breakdowns, case studies and strategy.
 
 ---
 
-## 🧭 About Me
-
-I work in government consulting and I’m transitioning into product management.  
-This website documents my journey — product breakdowns, case studies, frameworks, and thought processes.
+### About Me
+I work in government consulting and I’m transitioning into product management. I’m documenting my product journey here.
 
 ---
 
-## ⭐ Featured Work
-
-### 🚧 Coming Soon
-Your first product breakdown will appear here.
-
-### 📊 Case Study
-A structured case study section to showcase your analysis.
+### Featured Work
+Coming soon…
 
 ---
 
-## 📚 Case Studies
-This section will expand as you start writing.
-
----
-
-## ✉️ Contact  
-You can reach me on **LinkedIn** or via email.
-
----
-
-### © 2025 Sai Sri — Built with GitHub Pages
+### Contact
+Find me on LinkedIn or email.
